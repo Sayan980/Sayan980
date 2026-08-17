@@ -31,9 +31,9 @@
 
 ### 🚀 Featured Projects
 
-*   **👁️ Facial Recognition Attendance System:** Developed frontend UI for automated facial capture and data logging using Python, OpenCV, HTML, and CSS.
+*   **👁️ Facial Recognition Attendance System:** Designed the complete user interface and developed the frontend architecture for automated facial capture and data logging. Built using Python, OpenCV, HTML, and CSS.
 *   **🔐 Single Sign-On (SSO) Demo:** Built a full-stack demo showcasing centralized authentication.
-*   **🎨 UI Design Portfolio:** Check out my designs at [Link to Portfolio].
+*   **🎨 UI Design:** My design work is actively integrated into my development projects. I focus on creating intuitive, accessible, and clean user experiences directly within the applications I build.
 
 ---
 
