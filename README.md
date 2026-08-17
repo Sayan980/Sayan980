@@ -9,7 +9,7 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayan980&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sayan980&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 </p>
 
 *   **Libraries/Frameworks:** OpenCV
-*   **Design:** UI/UX, Figma *(Add your preferred design tool)*
+*   **Design:** UI/UX Principles, Wireframing
 
 ---
 
@@ -40,12 +40,12 @@
 ### ⚡ GitHub Stats & Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayan980&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayan980&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayan980&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Sayan980&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan980&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan980&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ### ⏱️ Weekly Coding Activity
