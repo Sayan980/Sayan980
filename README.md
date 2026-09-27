@@ -165,13 +165,20 @@ sayan@cyber-core:~$ sysinfo --user SayanChakraborty
 <table>
   <tr>
     <td width="100%" valign="top">
-      <h3>🖥️ PulseGuard: Server Monitoring Frontend Dashboard</h3>
-      <p>A modern real-time frontend dashboard and telemetry interface engineered to visualize server performance, CPU/memory consumption, uptime status, and instant alert notifications.</p>
+      <div align="between">
+        <h3>🖥️ Server Monitoring & Telemetry Dashboard</h3>
+      </div>
+      <p>A real-time frontend dashboard and server telemetry system engineered to track system performance, CPU/memory consumption, disk activity, uptime status, and instant alert notifications.</p>
       <ul>
-        <li><b>Frontend Interface:</b> Responsive, dark-themed control panel built with HTML5, CSS3, and JavaScript featuring real-time data binding.</li>
-        <li><b>Telemetry & API:</b> Connected to lightweight FastAPI endpoints for continuous metrics streaming.</li>
-        <li><b>Version Control:</b> Versioned and managed with Git and GitHub.</li>
+        <li><b>Frontend Web Interface:</b> Responsive, dark-themed control panel built with HTML5, CSS3, and JavaScript with live data visualization and telemetry cards.</li>
+        <li><b>Backend & REST API:</b> Powered by Python and FastAPI for fast metric polling, endpoint routes, and system diagnostics.</li>
+        <li><b>Version Control:</b> Versioned and managed via Git and GitHub.</li>
       </ul>
+      <p>
+        <a href="https://github.com/Sayan980/Server_monitoring" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-Server_Monitoring-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="View Repository" />
+        </a>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
