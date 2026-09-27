@@ -45,24 +45,6 @@ sayan@cyber-core:~$ sysinfo --user SayanChakraborty
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<!-- ========================================================================= -->
-<!-- 🏙️ 3D ISOMETRIC CONTRIBUTION GRAPH                                        -->
-<!-- ========================================================================= -->
-
-<div align="center">
-  <h2>🏙️ 3D Isometric Contribution Matrix</h2>
-  <p><i>Automated 3D rendering of real-time GitHub commit topography</i></p>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayan980/Sayan980/main/profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sayan980/Sayan980/main/profile-3d-contrib/profile-green-animate.svg">
-    <img alt="3D Isometric Contribution Graph" src="https://raw.githubusercontent.com/Sayan980/Sayan980/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
 
 <!-- ========================================================================= -->
 <!-- 🐍 3D CYBERPUNK SNAKE ANIMATION                                           -->
