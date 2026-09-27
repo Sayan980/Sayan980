@@ -50,23 +50,7 @@ sayan@cyber-core:~$ sysinfo --user SayanChakraborty
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<!-- ========================================================================= -->
-<!-- 🐍 3D CYBERPUNK SNAKE ANIMATION                                           -->
-<!-- ========================================================================= -->
 
-<div align="center">
-  <h2>🐍 Contribution Grid Cyber-Snake</h2>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayan980/Sayan980/output/github-contribution-grid-snake-neon.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sayan980/Sayan980/output/github-contribution-grid-snake.svg">
-    <img alt="Cyberpunk Snake Animation" src="https://raw.githubusercontent.com/Sayan980/Sayan980/output/github-contribution-grid-snake-neon.svg" width="100%" />
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
 
 <!-- ========================================================================= -->
 <!-- 🛠️ TECH STACK MATRIX                                                     -->
