@@ -1,3 +1,8 @@
+<!-- ========================================================================= -->
+<!-- 🌌 ULTRA-LEVEL NEON CYBERPUNK / TOKYO NIGHT GITHUB PROFILE                -->
+<!-- Designed for Sayan Chakraborty (@Sayan980)                                -->
+<!-- ========================================================================= -->
+
 <div align="center">
 
   <!-- Holographic Status Badges Row -->
@@ -11,12 +16,12 @@
 
   <!-- Cyber Animated Glowing Title Banner -->
   <a href="https://github.com/Sayan980">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,24,30&height=220&section=header&text=SAYAN%20CHAKRABORTY&fontSize=42&fontColor=7dcfff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20UI%2FUX%20Architect&descFontSize=16&descColor=bb9af7&descAlignY=60&animation=twinkling" width="100%" alt="Sayan Chakraborty Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,24,30&height=220&section=header&text=SAYAN%20CHAKRABORTY&fontSize=42&fontColor=7dcfff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20FastAPI%20%E2%80%A2%20Java&descFontSize=16&descColor=bb9af7&descAlignY=60&animation=twinkling" width="100%" alt="Sayan Chakraborty Header Banner" />
   </a>
 
   <!-- Animated Typing SVG in Tokyo Night Palette -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&width=650&lines=const+engineer+%3D+%22Full-Stack+Developer%22%3B;const+passion+%3D+%22Computer+Vision+%26+Deep+Learning%22%3B;const+aesthetic+%3D+%22Next-Gen+UI%2FUX+Architecture%22%3B;while(alive)+%7B+innovate()%3B+build()%3B+%7D" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&width=650&lines=const+engineer+%3D+%22Software+Developer%22%3B;const+backend+%3D+%22Python+%26+FastAPI%22%3B;const+core+%3D+%22C+%26+Java+Engineering%22%3B;while(alive)+%7B+innovate()%3B+build()%3B+%7D" alt="Typing SVG Banner" />
   </a>
 
 </div>
@@ -32,10 +37,10 @@ sayan@cyber-core:~$ sysinfo --user SayanChakraborty
 ┌─────────────────────── [ NEURAL PROFILE MANIFEST ] ──────────────────────┐
 │  • Identity ...... Sayan Chakraborty                                      │
 │  • Education ..... Ramakrishna Mission Vidyamandira, Belur Math 🎓       │
-│  • Core Focus .... Full-Stack Engineering, Systems & Server Monitoring    │
-│  • Architecture .. NextGen UI/UX Engineering, Linux & DevOps Tooling      │
-│  • Current Goal .. Real-Time Telemetry & Scalable Server Architectures    │
-│  • Philosophy .... "Clean code meets unforgettable user experiences."     │
+│  • Core Focus .... C, Java, Python, HTML, CSS, JavaScript & FastAPI       │
+│  • Tools ......... Git & GitHub Version Control                          │
+│  • Current Goal .. Real-Time Telemetry, APIs & Server Monitoring Systems │
+│  • Philosophy .... "Clean code meets reliable architecture."             │
 │  • Location ...... Belur Math, India 🇮🇳                                   │
 │  • Collaboration . Open to High-Impact Projects & Tech Opportunities      │
 └───────────────────────────────────────────────────────────────────────────┘
@@ -44,7 +49,6 @@ sayan@cyber-core:~$ sysinfo --user SayanChakraborty
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
-
 
 <!-- ========================================================================= -->
 <!-- 🐍 3D CYBERPUNK SNAKE ANIMATION                                           -->
@@ -69,48 +73,48 @@ sayan@cyber-core:~$ sysinfo --user SayanChakraborty
 <!-- ========================================================================= -->
 
 <div align="center">
-  <h2>⚡ Tech Arsenal & Cybernetic Stack</h2>
-  <p><i>The toolchains, frameworks, and engines powering my builds</i></p>
+  <h2>⚡ Tech Arsenal & Core Stack</h2>
+  <p><i>The toolchains, languages, and frameworks powering my builds</i></p>
 
   <br/>
 
   <table>
     <thead>
       <tr>
-        <th align="center" width="25%"><b>Domain</b></th>
-        <th align="center" width="75%"><b>Technologies & Frameworks</b></th>
+        <th align="center" width="28%"><b>Domain</b></th>
+        <th align="center" width="72%"><b>Technologies & Frameworks</b></th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td align="center"><b>Core Languages</b></td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css&theme=dark" alt="Languages" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><b>Computer Vision & AI</b></td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=opencv,py,tensorflow,pytorch&theme=dark" alt="Vision AI" />
+          <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js&theme=dark" alt="C, Java, Python, HTML, CSS, JavaScript" />
           <br/><br/>
-          <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-          <img src="https://img.shields.io/badge/Facial_Recognition-7aa2f7?style=for-the-badge&logo=faceit&logoColor=white" alt="Facial Recognition" />
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         </td>
       </tr>
       <tr>
-        <td align="center"><b>UI/UX & Frontend</b></td>
+        <td align="center"><b>Backend Framework</b></td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=figma,tailwind,sass,bootstrap&theme=dark" alt="Design & Frontend" />
+          <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" />
           <br/><br/>
-          <img src="https://img.shields.io/badge/UI_Architecture-bb9af7?style=for-the-badge&logo=adobexd&logoColor=white" alt="UI Architecture" />
-          <img src="https://img.shields.io/badge/Wireframing-00C4CC?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Wireframing" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+          <img src="https://img.shields.io/badge/REST%20APIs-00F0FF?style=flat-square&logo=fastapi&logoColor=black" alt="REST APIs" />
         </td>
       </tr>
       <tr>
-        <td align="center"><b>Tools & DevOps</b></td>
+        <td align="center"><b>Tools & Version Control</b></td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,bash,mysql,sqlite&theme=dark" alt="Tools & Ecosystem" />
+          <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git, GitHub" />
+          <br/><br/>
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
         </td>
       </tr>
     </tbody>
@@ -125,12 +129,11 @@ sayan@cyber-core:~$ sysinfo --user SayanChakraborty
 
 | Skill Domain | Proficiency Level |
 |:---|:---|
-| 🐍 Python & Computer Vision | `████████████████░░░░` **80%** |
-| 🎨 UI/UX Design & Frontend Architecture | `███████████████████░` **90%** |
-| 🌐 HTML5 / CSS3 / JavaScript | `██████████████████░░` **85%** |
-| ☕ Java & Object-Oriented Engineering | `████████████░░░░░░░░` **60%** |
-| 🔧 C / C++ Systems Programming | `████████████░░░░░░░░` **55%** |
-| 🔐 Authentication & Session Security | `█████████████░░░░░░░` **65%** |
+| 🐍 Python & FastAPI Backend | `████████████████░░░░` **80%** |
+| 🌐 HTML5 / CSS3 / JavaScript | `█████████████████░░░` **85%** |
+| ☕ Java & Object-Oriented Engineering | `██████████████░░░░░░` **70%** |
+| 🔧 C Systems Programming | `████████████░░░░░░░░` **60%** |
+| 🐙 Git & GitHub Workflow | `████████████████░░░░` **80%** |
 
 </div>
 
@@ -168,54 +171,30 @@ sayan@cyber-core:~$ sysinfo --user SayanChakraborty
 <!-- ========================================================================= -->
 
 <div align="center">
-  <h2>🚀 Mission-Critical Projects</h2>
-  <p><i>Featured highlights from my software engineering and vision development journey</i></p>
+  <h2>🚀 Featured Project Showcase</h2>
+  <p><i>Highlights from my software development journey</i></p>
 </div>
 
 <br/>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🖥️ PulseGuard: Server & Infrastructure Monitoring System</h3>
-      <p>A real-time telemetry and server health monitoring engine engineered to track system performance, CPU/memory consumption, disk I/O, uptime, and automated alert dispatching.</p>
+      <p>A real-time telemetry and server health monitoring engine engineered to track system performance, CPU/memory consumption, uptime, and automated alert dispatching.</p>
       <ul>
-        <li><b>Telemetry Engine:</b> Real-time metric gathering for CPU, RAM, disk I/O, process states, and network load.</li>
-        <li><b>Dashboard & Alerts:</b> Visual diagnostic control panel with dynamic threshold detection and automated event triggers.</li>
+        <li><b>Backend & APIs:</b> Built with Python and FastAPI for high-throughput metric gathering and real-time endpoints.</li>
+        <li><b>Frontend Dashboard:</b> Clean diagnostic control interface developed with HTML5, CSS3, and JavaScript.</li>
+        <li><b>Version Control:</b> Versioned and managed with Git and GitHub.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux%20%2F%20Bash-FCC624?style=flat-square&logo=linux&logoColor=black" />
-        <img src="https://img.shields.io/badge/Server%20Monitoring-00F0FF?style=flat-square&logo=datadog&logoColor=black" />
-        <img src="https://img.shields.io/badge/Full--Stack-7AA2F7?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔐 NexusAuth: Single Sign-On (SSO) Demo</h3>
-      <p>A full-stack authentication prototype showcasing modern centralized identity delegation, session management, and access controls.</p>
-      <ul>
-        <li><b>Security Flow:</b> Unified token issuance and validation across distributed client services.</li>
-        <li><b>User Experience:</b> Frictionless login transitions with strict security verification layers.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Authentication-00F0FF?style=flat-square&logo=auth0&logoColor=black" />
-        <img src="https://img.shields.io/badge/Full--Stack-7AA2F7?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Security-BB9AF7?style=flat-square&logo=lock&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🎨 NextGen UI/UX Architecture Studio</h3>
-      <p>Design engineering that bridges the gap between raw functional logic and stunning, intuitive digital experiences.</p>
-      <ul>
-        <li><b>Principles:</b> Glassmorphism, micro-animations, accessible color hierarchy, and responsive fluid grids.</li>
-        <li><b>Integration:</b> Direct design-to-code implementation with reusable design tokens and zero-lag layouts.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Wireframing-00C4CC?style=flat-square&logo=diagramsdotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/Design%20Systems-7AA2F7?style=flat-square&logo=adobecreativesdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -235,11 +214,13 @@ class SayanChakraborty:
         self.name       = "Sayan Chakraborty"
         self.education  = "Ramakrishna Mission Vidyamandira, Belur Math 🎓"
         self.location   = "Belur Math, India 🇮🇳"
-        self.role       = ["Full-Stack Developer", "Systems & Monitoring Specialist", "UI/UX Architect"]
-        self.languages  = ["Python", "Java", "C", "C++", "JavaScript", "HTML", "CSS"]
-        self.focus      = ["Server Monitoring", "Systems Engineering", "Full-Stack Development"]
-        self.fun_fact   = "I love tracking server telemetry and designing intuitive interfaces 📊"
-        self.goal       = "Build reliable infrastructure tools and seamless user experiences 🚀"
+        self.role       = ["Software Developer", "Backend & Systems Enthusiast"]
+        self.languages  = ["C", "Java", "Python", "JavaScript", "HTML", "CSS"]
+        self.frameworks = ["FastAPI"]
+        self.tools      = ["Git", "GitHub"]
+        self.focus      = ["Server Monitoring", "FastAPI Services", "Web Technologies"]
+        self.fun_fact   = "I love monitoring system pulses and building clean web tools 📊"
+        self.goal       = "Build reliable, high-performance software & backend services 🚀"
 
     def collaborate(self):
         return "Always open — let's build something legendary together! ⚡"
