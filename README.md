@@ -231,8 +231,8 @@ print(sayan.collaborate())
     <img src="https://img.shields.io/badge/LinkedIn-Sayan_Chakraborty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:sayancchakraborty@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sayancchakraborty%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email" />
+  <a href="mailto:sayancchakraborty9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sayancchakraborty9%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Sayan980">
