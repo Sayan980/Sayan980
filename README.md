@@ -10,18 +10,18 @@
   &nbsp;
   <img src="https://img.shields.io/badge/MODE-DEEP%20BUILD-bb9af7?style=for-the-badge&labelColor=1a1b26" alt="Mode Deep Build" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Sayan980&label=NEURAL%20LINK%20HITS&color=7aa2f7&style=for-the-badge&labelColor=1a1b26" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/FOCUS-FRONTEND%20WEB%20DEV-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Frontend Web Developer" />
 
   <br/><br/>
 
   <!-- Cyber Animated Glowing Title Banner -->
   <a href="https://github.com/Sayan980">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,24,30&height=220&section=header&text=SAYAN%20CHAKRABORTY&fontSize=42&fontColor=7dcfff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20FastAPI%20%E2%80%A2%20Java&descFontSize=16&descColor=bb9af7&descAlignY=60&animation=twinkling" width="100%" alt="Sayan Chakraborty Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,24,30&height=220&section=header&text=SAYAN%20CHAKRABORTY&fontSize=42&fontColor=7dcfff&fontAlignY=38&desc=Frontend%20Web%20Developer%20%E2%80%A2%20JavaScript%20%E2%80%A2%20HTML5%20%2F%20CSS3&descFontSize=16&descColor=bb9af7&descAlignY=60&animation=twinkling" width="100%" alt="Sayan Chakraborty Header Banner" />
   </a>
 
   <!-- Animated Typing SVG in Tokyo Night Palette -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&width=650&lines=const+engineer+%3D+%22Software+Developer%22%3B;const+backend+%3D+%22Python+%26+FastAPI%22%3B;const+core+%3D+%22C+%26+Java+Engineering%22%3B;while(alive)+%7B+innovate()%3B+build()%3B+%7D" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&width=680&lines=const+role+%3D+%22Frontend+Web+Developer%22%3B;const+passion+%3D+%22Interactive+%26+Responsive+Web+UIs%22%3B;const+core+%3D+%22HTML5+%E2%80%A2+CSS3+%E2%80%A2+Modern+JavaScript%22%3B;while(alive)+%7B+design()%3B+build()%3B+animate()%3B+%7D" alt="Typing SVG Banner" />
   </a>
 
 </div>
@@ -37,12 +37,14 @@ sayan@cyber-core:~$ sysinfo --user SayanChakraborty
 ┌─────────────────────── [ NEURAL PROFILE MANIFEST ] ──────────────────────┐
 │  • Identity ...... Sayan Chakraborty                                      │
 │  • Education ..... Ramakrishna Mission Vidyamandira, Belur Math 🎓       │
-│  • Core Focus .... C, Java, Python, HTML, CSS, JavaScript & FastAPI       │
+│  • Primary Role .. Frontend Web Developer 🌐                             │
+│  • Frontend Stack. HTML5, CSS3, Modern JavaScript (ES6+), Responsive UI  │
+│  • Other Skills .. Python, FastAPI, Java, C                              │
 │  • Tools ......... Git & GitHub Version Control                          │
-│  • Current Goal .. Real-Time Telemetry, APIs & Server Monitoring Systems │
-│  • Philosophy .... "Clean code meets reliable architecture."             │
+│  • Current Goal .. Crafting High-Performance, Pixel-Perfect Web Apps     │
+│  • Philosophy .... "Clean code meets unforgettable user experiences."     │
 │  • Location ...... Belur Math, India 🇮🇳                                   │
-│  • Collaboration . Open to High-Impact Projects & Tech Opportunities      │
+│  • Collaboration . Open to Frontend Projects & Web Dev Opportunities     │
 └───────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -55,8 +57,8 @@ sayan@cyber-core:~$ sysinfo --user SayanChakraborty
 <!-- ========================================================================= -->
 
 <div align="center">
-  <h2>⚡ Tech Arsenal & Core Stack</h2>
-  <p><i>The toolchains, languages, and frameworks powering my builds</i></p>
+  <h2>⚡ Tech Arsenal & Frontend Stack</h2>
+  <p><i>The toolchains, languages, and frameworks powering my web builds</i></p>
 
   <br/>
 
@@ -69,29 +71,29 @@ sayan@cyber-core:~$ sysinfo --user SayanChakraborty
     </thead>
     <tbody>
       <tr>
-        <td align="center"><b>Core Languages</b></td>
+        <td align="center"><b>Frontend Web Core</b></td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js&theme=dark" alt="C, Java, Python, HTML, CSS, JavaScript" />
+          <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML5, CSS3, JavaScript" />
           <br/><br/>
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/JavaScript%20(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/Responsive_Design-7AA2F7?style=flat-square&logo=googlechrome&logoColor=white" alt="Responsive Design" />
         </td>
       </tr>
       <tr>
-        <td align="center"><b>Backend Framework</b></td>
+        <td align="center"><b>Backend & Languages</b></td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" />
+          <img src="https://skillicons.dev/icons?i=python,fastapi,java,c&theme=dark" alt="Python, FastAPI, Java, C" />
           <br/><br/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
           <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-          <img src="https://img.shields.io/badge/REST%20APIs-00F0FF?style=flat-square&logo=fastapi&logoColor=black" alt="REST APIs" />
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
         </td>
       </tr>
       <tr>
-        <td align="center"><b>Tools & Version Control</b></td>
+        <td align="center"><b>Version Control</b></td>
         <td align="center">
           <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git, GitHub" />
           <br/><br/>
@@ -111,8 +113,9 @@ sayan@cyber-core:~$ sysinfo --user SayanChakraborty
 
 | Skill Domain | Proficiency Level |
 |:---|:---|
-| 🐍 Python & FastAPI Backend | `████████████████░░░░` **80%** |
-| 🌐 HTML5 / CSS3 / JavaScript | `█████████████████░░░` **85%** |
+| 🌐 Modern Frontend Engineering (HTML5 / CSS3 / JavaScript) | `██████████████████░` **90%** |
+| 🎨 Responsive UI / UX & DOM Architecture | `█████████████████░░` **85%** |
+| 🐍 Python & FastAPI Backend Services | `████████████████░░░░` **80%** |
 | ☕ Java & Object-Oriented Engineering | `██████████████░░░░░░` **70%** |
 | 🔧 C Systems Programming | `████████████░░░░░░░░` **60%** |
 | 🐙 Git & GitHub Workflow | `████████████████░░░░` **80%** |
@@ -154,7 +157,7 @@ sayan@cyber-core:~$ sysinfo --user SayanChakraborty
 
 <div align="center">
   <h2>🚀 Featured Project Showcase</h2>
-  <p><i>Highlights from my software development journey</i></p>
+  <p><i>Highlights from my frontend and software development journey</i></p>
 </div>
 
 <br/>
@@ -162,19 +165,19 @@ sayan@cyber-core:~$ sysinfo --user SayanChakraborty
 <table>
   <tr>
     <td width="100%" valign="top">
-      <h3>🖥️ PulseGuard: Server & Infrastructure Monitoring System</h3>
-      <p>A real-time telemetry and server health monitoring engine engineered to track system performance, CPU/memory consumption, uptime, and automated alert dispatching.</p>
+      <h3>🖥️ PulseGuard: Server Monitoring Frontend Dashboard</h3>
+      <p>A modern real-time frontend dashboard and telemetry interface engineered to visualize server performance, CPU/memory consumption, uptime status, and instant alert notifications.</p>
       <ul>
-        <li><b>Backend & APIs:</b> Built with Python and FastAPI for high-throughput metric gathering and real-time endpoints.</li>
-        <li><b>Frontend Dashboard:</b> Clean diagnostic control interface developed with HTML5, CSS3, and JavaScript.</li>
+        <li><b>Frontend Interface:</b> Responsive, dark-themed control panel built with HTML5, CSS3, and JavaScript featuring real-time data binding.</li>
+        <li><b>Telemetry & API:</b> Connected to lightweight FastAPI endpoints for continuous metrics streaming.</li>
         <li><b>Version Control:</b> Versioned and managed with Git and GitHub.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       </p>
@@ -196,16 +199,15 @@ class SayanChakraborty:
         self.name       = "Sayan Chakraborty"
         self.education  = "Ramakrishna Mission Vidyamandira, Belur Math 🎓"
         self.location   = "Belur Math, India 🇮🇳"
-        self.role       = ["Software Developer", "Backend & Systems Enthusiast"]
-        self.languages  = ["C", "Java", "Python", "JavaScript", "HTML", "CSS"]
-        self.frameworks = ["FastAPI"]
-        self.tools      = ["Git", "GitHub"]
-        self.focus      = ["Server Monitoring", "FastAPI Services", "Web Technologies"]
-        self.fun_fact   = "I love monitoring system pulses and building clean web tools 📊"
-        self.goal       = "Build reliable, high-performance software & backend services 🚀"
+        self.role       = ["Frontend Web Developer", "UI Enthusiast"]
+        self.frontend   = ["HTML5", "CSS3", "JavaScript (ES6+)", "Responsive Design"]
+        self.backend    = ["Python", "FastAPI"]
+        self.other      = ["Java", "C", "Git", "GitHub"]
+        self.fun_fact   = "I turn code into responsive, pixel-perfect web interfaces 🎨"
+        self.goal       = "Build fast, accessible, and stunning digital web experiences 🌐"
 
     def collaborate(self):
-        return "Always open — let's build something legendary together! ⚡"
+        return "Always open — let's build something beautiful together! ⚡"
 
 sayan = SayanChakraborty()
 print(sayan.collaborate())
@@ -221,7 +223,7 @@ print(sayan.collaborate())
 
 <div align="center">
   <h2>📡 Establish Neural Connection</h2>
-  <p><i>Always open to discussing groundbreaking ideas, new opportunities, and cutting-edge tech.</i></p>
+  <p><i>Always open to discussing frontend ideas, collaboration opportunities, and cutting-edge web tech.</i></p>
 
   <br/>
 
